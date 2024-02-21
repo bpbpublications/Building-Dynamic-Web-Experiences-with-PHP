@@ -1,2 +1,2 @@
-# PHP Unleashed A Comprehensive Guide to Web Development
- PHP Unleashed A Comprehensive Guide to Web Development, by BPB Publications
+# Building Dynamic Web Experiences with PHP
+ Building Dynamic Web Experiences with PHP, by BPB Publications
